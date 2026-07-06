@@ -1,31 +1,19 @@
 # Framework Overview
 
-## Purpose
+## What This Repository Does
 
 This repository defines how to design and operate cloud systems around service level objectives, error budgets, and reliability tradeoffs.
 
-## Problem Statement
+## What It Covers
 
-Teams often ship features faster than they can measure reliability. When SLOs are unclear, incidents become subjective, error budgets lose meaning, and cost decisions are made without a reliability lens.
+- SLO definition
+- SLI measurement
+- error budget governance
+- reliability scoring
+- performance optimization
+- executive reporting
 
-## What This Framework Does
-
-- defines SLOs and SLIs in a practical operating model
-- links error budgets to release decisions
-- shows how to balance reliability and cost
-- creates a repeatable incident review loop
-- supports executive reporting on service health
-
-## Core Components
-
-1. SLO definition
-2. SLI measurement
-3. Error budget governance
-4. Reliability scoring
-5. Performance optimization
-6. Executive reporting
-
-## Intended Users
+## Who Uses It
 
 - SRE teams
 - platform engineering teams
@@ -33,10 +21,17 @@ Teams often ship features faster than they can measure reliability. When SLOs ar
 - executives responsible for reliability outcomes
 - product and service owners
 
-## How To Use This Repo
+## What Good Looks Like
 
-1. Start with the SLO strategy.
-2. Review the error budget model.
-3. Use the SLO template to define service targets.
-4. Track results with the scorecard and dashboard.
-5. Use the incident review template to learn from failures.
+- targets are tied to user journeys
+- budgets guide release decisions
+- incident reviews are consistent
+- reliability and cost are balanced deliberately
+
+## Outputs
+
+- SLO strategy
+- error budget model
+- reliability scorecard
+- dashboard
+- review templates

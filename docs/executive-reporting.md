@@ -2,42 +2,19 @@
 
 ## Purpose
 
-Executive reporting turns service reliability into a concise leadership view.
+Executive reporting translates technical reliability data into a concise view of service health, risk, and needed decisions.
 
-## Report Sections
+## What Leaders Need To See
 
-- current reliability posture
-- key SLO trends
+- SLO compliance
 - error budget status
-- incident themes
-- optimization actions
-- decisions needed
+- major incidents
+- optimization progress
+- decisions required
 
 ## Reporting Rules
 
-- keep the report short
-- show trend over time
-- separate signal from noise
-- state the business impact clearly
-- end with decisions or actions
-
-## Example Executive View
-
-| Metric | Current | Trend | Status |
-| --- | --- | --- | --- |
-| Availability | 99.92% | Stable | Healthy |
-| P95 Latency | 280 ms | Improving | Healthy |
-| Error Budget | 24% remaining | Declining | Warning |
-| Open Actions | 5 | Stable | Needs Attention |
-
-## Recommended Cadence
-
-- weekly service summary
-- monthly leadership review
-- quarterly reliability roadmap review
-
-## Related Artifacts
-
-- [SLO Scorecard](../models/slo-scorecard.md)
-- [Reliability Scorecard](../models/reliability-scorecard.md)
-- [Sample Reliability Dashboard](../dashboards/sample-reliability-dashboard.md)
+- keep it short and decision-oriented
+- explain business impact
+- avoid raw metrics without context
+- call out if action is required

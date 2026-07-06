@@ -1,37 +1,26 @@
 # SLO Template
 
-## Service Details
+## Service
 
-- Service Name:
-- Owner:
-- Critical User Journey:
-- Measurement Window:
+`[Service name]`
 
 ## Objective
 
-- SLO Name:
-- Target:
-- Description:
+State the service outcome to protect.
 
-## SLI Definition
+## SLI
 
-- Metric:
-- Data Source:
-- Measurement Method:
+- metric
+- formula
+- source
 
-## Error Budget
+## SLO
 
-- Budget Size:
-- Burn Rate Threshold:
-- Action Threshold:
-
-## Review Plan
-
-- Review Cadence:
-- Owners:
-- Escalation Path:
+- target
+- measurement window
+- owner
 
 ## Notes
 
-- Exceptions:
-- Open Questions:
+- what counts as a breach
+- what action follows a breach

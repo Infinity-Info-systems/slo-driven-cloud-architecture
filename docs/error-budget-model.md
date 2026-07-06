@@ -32,6 +32,12 @@ The error budget model turns reliability into a governance mechanism by showing 
 - release pace is reduced or paused
 - incident or reliability review is triggered
 
+## Operational Notes
+
+- use burn rate to trigger discussion early
+- tie budget status to delivery decisions
+- keep the threshold understandable to non-specialists
+
 ## Example Budget View
 
 | Service | Budget | Used | Remaining | State |

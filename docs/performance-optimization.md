@@ -2,47 +2,24 @@
 
 ## Purpose
 
-Performance optimization improves user experience while respecting reliability and cost constraints.
+Performance optimization improves user experience while protecting the reliability targets the SLO defines.
 
 ## Optimization Areas
 
-- latency reduction
+- latency
+- throughput
+- resource efficiency
+- concurrency
 - dependency tuning
-- caching
-- capacity planning
-- workload scheduling
 
-## Optimization Approach
+## Review Questions
 
-### 1. Identify Bottlenecks
+- what is the bottleneck?
+- what change improves the SLO most?
+- what side effects might the change create?
 
-- slow services
-- dependency failures
-- resource saturation
-- expensive retry patterns
+## Evidence To Collect
 
-### 2. Prioritize Impact
-
-- user-facing flows first
-- high-volume services next
-- low-risk improvements before deeper redesign
-
-### 3. Validate Gains
-
-- compare before and after metrics
-- confirm error budget impact
-- capture evidence
-
-## Example Optimization Log
-
-| Action | Metric Improved | Outcome |
-| --- | --- | --- |
-| Add caching | P95 latency | Improved response time |
-| Tune dependency retries | Error rate | Reduced failures |
-| Right-size compute | Cost | Lower spend |
-
-## Related Artifacts
-
-- [Reliability vs Cost](./reliability-vs-cost.md)
-- [SLO Scorecard](../models/slo-scorecard.md)
-- [Sample Reliability Dashboard](../dashboards/sample-reliability-dashboard.md)
+- performance trends
+- optimization changes
+- before / after results

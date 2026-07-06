@@ -36,11 +36,17 @@ The SLO strategy defines how teams set service targets that are meaningful, meas
 - define the alert threshold
 - define the owner
 
-### 4. Validate the Target
+### 4. Validate The Target
 
 - test against historical data
 - confirm the threshold is realistic
 - ensure the target supports service goals
+
+## Operational Notes
+
+- keep targets limited to the most important services
+- avoid SLO sprawl
+- revisit targets after major changes
 
 ## Example SLO Set
 

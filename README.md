@@ -19,6 +19,14 @@ This repository helps teams define and manage:
 - performance optimization tradeoffs
 - executive reliability reporting
 
+## How To Use This Repo
+
+1. Read the framework overview.
+2. Review the SLO strategy and error budget model.
+3. Review the scorecards and SLI examples.
+4. Use the templates to define targets, review incidents, and track action items.
+5. Keep the dashboard and executive reporting current.
+
 ## Core Content
 
 - [Framework Overview](docs/framework-overview.md)
@@ -49,11 +57,3 @@ This repository helps teams define and manage:
 - [Bibliography](references/bibliography.md)
 - [SSRN Links](publications/ssrn-links.md)
 - [Impact Metrics](evidence/impact-metrics.md)
-
-## Start Here
-
-1. Read the framework overview.
-2. Review the SLO strategy and error budget model.
-3. Review the SLO scorecard.
-4. Use the templates to define reliability operating practices.
-5. Expand the dashboard content next.

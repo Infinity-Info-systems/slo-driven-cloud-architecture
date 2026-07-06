@@ -1,41 +1,21 @@
 # Incident Review Template
 
-## Incident Details
+## Incident Summary
 
-- Date:
-- Service:
-- Severity:
-- Owner:
+- title
+- date
+- severity
+- service
 
-## Summary
+## Review Questions
 
-What happened?
-
-## Impact
-
-- User impact:
-- Business impact:
-- Error budget impact:
-
-## Timeline
-
-- Detection:
-- Response:
-- Mitigation:
-- Recovery:
-
-## Root Cause
-
-- Technical cause:
-- Contributing factors:
+- what happened?
+- what was the impact?
+- what did we learn?
+- what should change?
 
 ## Actions
 
-| Action | Owner | Due Date |
-| --- | --- | --- |
-|  |  |  |
-
-## Learning
-
-- What went well:
-- What should improve:
+| Action | Owner | Due Date | Status |
+| --- | --- | --- | --- |
+|  |  |  |  |

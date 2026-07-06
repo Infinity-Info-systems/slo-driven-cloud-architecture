@@ -1,33 +1,18 @@
 # Error Budget Template
 
-## Service Details
+## Service
 
-- Service Name:
-- SLO Reference:
-- Owner:
+`[Service name]`
 
-## Budget Definition
+## Budget
 
-- Budget Size:
-- Measurement Window:
-- Burn Threshold:
+- total budget
+- consumed
+- remaining
+- threshold
 
-## Tracking
+## Action
 
-| Period | Budget Used | Budget Remaining | State |
-| --- | --- | --- | --- |
-| Week 1 |  |  |  |
-| Week 2 |  |  |  |
-| Week 3 |  |  |  |
-| Week 4 |  |  |  |
-
-## Action Plan
-
-- Release gating:
-- Reliability work:
-- Communication:
-
-## Review Notes
-
-- Exceptions:
-- Decisions:
+- healthy
+- warning
+- critical

@@ -9,7 +9,7 @@ This index organizes the repo into a front door for SLO-driven architecture, rel
 - [Framework Overview](./framework-overview.md)
 - [SLO Strategy](./slo-strategy.md)
 - [Error Budget Model](./error-budget-model.md)
-- [Reliability vs Cost](./reliability-vs-cost.md)
+- [Reliability Vs Cost](./reliability-vs-cost.md)
 - [Performance Optimization](./performance-optimization.md)
 - [Executive Reporting](./executive-reporting.md)
 
