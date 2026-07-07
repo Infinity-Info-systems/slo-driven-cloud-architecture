@@ -3,6 +3,7 @@
 ## Purpose
 
 The SLO strategy defines how teams set service targets that are meaningful, measurable, and tied to user impact.
+It also defines how those targets should change behavior when reliability is under pressure.
 
 ## Strategy Principles
 
@@ -12,6 +13,10 @@ The SLO strategy defines how teams set service targets that are meaningful, meas
 - review targets with service owners
 - connect SLOs to action thresholds
 - make targets measurable from existing telemetry where possible
+
+## Use
+
+Use this page when translating service experience into concrete targets and action thresholds.
 
 ## SLO Design Flow
 
@@ -48,6 +53,7 @@ The SLO strategy defines how teams set service targets that are meaningful, meas
 - keep targets limited to the most important services
 - avoid SLO sprawl
 - revisit targets after major changes
+- revisit targets when user behavior or service architecture changes
 
 ## Example SLO Set
 
@@ -66,3 +72,7 @@ The SLO strategy defines how teams set service targets that are meaningful, meas
 ## Strategy Rule
 
 If an SLO does not change behavior or improve decision-making, it is probably not useful enough.
+
+## Outcome
+
+Good SLOs help teams protect what matters most without creating unnecessary friction.

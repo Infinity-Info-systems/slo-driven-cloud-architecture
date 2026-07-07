@@ -4,6 +4,7 @@
 
 This index organizes the repo into a front door for SLO-driven architecture, reliability measurement, and error budget management.
 Use it to get from strategy to the exact model or template you need quickly.
+The order is intentional so readers move from the service objective into the governing model and then into the artifacts that support it.
 
 ## Entry Points
 
@@ -47,3 +48,4 @@ Use it to get from strategy to the exact model or template you need quickly.
 
 Use the same section structure as the other core repos so the ecosystem reads as one operating system.
 Keep the pages concise enough for review and specific enough to support action.
+If a page does not help set a threshold, explain a tradeoff, or guide a response, move that detail into a more focused artifact.

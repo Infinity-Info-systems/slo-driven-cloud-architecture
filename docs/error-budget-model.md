@@ -3,6 +3,7 @@
 ## Purpose
 
 The error budget model turns reliability into a governance mechanism by showing how much failure is acceptable before release or operational action changes.
+It gives the team a visible boundary for deciding when to keep moving and when to slow down.
 
 ## Model Elements
 
@@ -53,6 +54,10 @@ The error budget model turns reliability into a governance mechanism by showing 
 - keep burn rate visible to service owners
 - review threshold breaches quickly
 - use post-incident learning to tune the model
+
+## Outcome
+
+The model should make release pacing and reliability tradeoffs easier to explain, not harder.
 
 ## Use
 
