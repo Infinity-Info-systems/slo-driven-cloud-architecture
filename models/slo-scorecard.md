@@ -17,3 +17,7 @@ Track how mature the SLO practice is for a given service portfolio.
 - low score means the team lacks measurable reliability guidance
 - mid score means SLOs exist but need consistency
 - high score means SLOs are operating as a management tool
+
+## Use
+
+Use this scorecard to show whether SLOs are being treated as a practical management mechanism or just as documentation.

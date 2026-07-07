@@ -5,6 +5,7 @@
 This repository contains the operating model for designing cloud systems around service level objectives, error budgets, and reliability tradeoffs.
 
 It focuses on reliability strategy, SLI design, performance optimization, and executive reporting.
+It is intended to help teams manage reliability as a measurable business and operating discipline.
 
 ## Why It Matters
 
@@ -18,6 +19,17 @@ This repository helps teams define and manage:
 - incident review practices
 - performance optimization tradeoffs
 - executive reliability reporting
+- reliability and cost tradeoffs
+- decision thresholds
+- service ownership clarity
+
+## Content Model
+
+This repository works best when the content is grouped into three layers:
+
+- strategy and framework pages
+- models and dashboards
+- templates and reference notes
 
 ## How To Use This Repo
 
@@ -26,6 +38,7 @@ This repository helps teams define and manage:
 3. Review the scorecards and SLI examples.
 4. Use the templates to define targets, review incidents, and track action items.
 5. Keep the dashboard and executive reporting current.
+6. Keep SLO language consistent across services and supporting artifacts.
 
 ## Core Content
 
@@ -57,3 +70,7 @@ This repository helps teams define and manage:
 - [Bibliography](references/bibliography.md)
 - [SSRN Links](publications/ssrn-links.md)
 - [Impact Metrics](evidence/impact-metrics.md)
+
+## Operating Principle
+
+An SLO-driven architecture should help teams decide what to protect, what to change, and when to slow down.

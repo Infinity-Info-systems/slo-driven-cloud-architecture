@@ -11,6 +11,7 @@ Performance optimization improves user experience while protecting the reliabili
 - resource efficiency
 - concurrency
 - dependency tuning
+- optimization risk review
 
 ## Review Questions
 
@@ -23,3 +24,7 @@ Performance optimization improves user experience while protecting the reliabili
 - performance trends
 - optimization changes
 - before / after results
+
+## Use
+
+Use this page to decide which performance work most improves the SLO while keeping the service safe and supportable.

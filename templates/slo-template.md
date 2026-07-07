@@ -24,3 +24,8 @@ State the service outcome to protect.
 
 - what counts as a breach
 - what action follows a breach
+- who reviews the target
+
+## Use
+
+Use this template to define a service objective that can be reviewed and acted on consistently.

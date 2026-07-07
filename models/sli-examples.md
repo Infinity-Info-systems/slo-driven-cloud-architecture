@@ -16,3 +16,8 @@ Show common indicator patterns that can be used to build practical SLOs.
 
 - choose SLIs that matter to users
 - keep the formula transparent
+- keep each SLI tied to one service outcome
+
+## Use
+
+Use these examples as a starting point for building meaningful and reviewable SLO measurements.

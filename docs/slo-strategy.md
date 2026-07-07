@@ -11,6 +11,7 @@ The SLO strategy defines how teams set service targets that are meaningful, meas
 - keep SLOs few and focused
 - review targets with service owners
 - connect SLOs to action thresholds
+- make targets measurable from existing telemetry where possible
 
 ## SLO Design Flow
 
@@ -61,3 +62,7 @@ The SLO strategy defines how teams set service targets that are meaningful, meas
 - [SLO Template](../templates/slo-template.md)
 - [SLO Scorecard](../models/slo-scorecard.md)
 - [SLI Examples](../models/sli-examples.md)
+
+## Strategy Rule
+
+If an SLO does not change behavior or improve decision-making, it is probably not useful enough.

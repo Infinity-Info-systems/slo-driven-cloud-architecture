@@ -7,6 +7,11 @@
 - incident recurrence
 - latency trend
 - action closure rate
+- decision turnaround time
+
+## Reporting Notes
+
+Track the metrics against a baseline so the team can show whether reliability decisions are improving outcomes.
 
 ## Reporting Notes
 

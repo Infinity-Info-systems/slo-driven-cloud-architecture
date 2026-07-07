@@ -37,6 +37,7 @@ The error budget model turns reliability into a governance mechanism by showing 
 - use burn rate to trigger discussion early
 - tie budget status to delivery decisions
 - keep the threshold understandable to non-specialists
+- set a named owner for each budget state
 
 ## Example Budget View
 
@@ -52,6 +53,10 @@ The error budget model turns reliability into a governance mechanism by showing 
 - keep burn rate visible to service owners
 - review threshold breaches quickly
 - use post-incident learning to tune the model
+
+## Use
+
+Use this model to make reliability tradeoffs visible and to guide release pacing when service health changes.
 
 ## Related Artifacts
 

@@ -18,3 +18,8 @@ Executive reporting translates technical reliability data into a concise view of
 - explain business impact
 - avoid raw metrics without context
 - call out if action is required
+- make the tradeoff explicit when budgets are burning fast
+
+## Reporting Outcome
+
+Executive reporting should make it easy to see whether reliability is improving, holding steady, or under material pressure.

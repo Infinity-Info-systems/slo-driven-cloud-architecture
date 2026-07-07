@@ -14,6 +14,13 @@
 - what did we learn?
 - what should change?
 
+## Review Outcome
+
+- no action
+- tuning required
+- reliability action required
+- leadership review required
+
 ## Actions
 
 | Action | Owner | Due Date | Status |

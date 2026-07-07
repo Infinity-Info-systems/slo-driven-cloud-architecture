@@ -3,6 +3,7 @@
 ## What This Repository Does
 
 This repository defines how to design and operate cloud systems around service level objectives, error budgets, and reliability tradeoffs.
+It provides a common language for balancing service health, delivery pace, and cost.
 
 ## What It Covers
 
@@ -27,6 +28,11 @@ This repository defines how to design and operate cloud systems around service l
 - budgets guide release decisions
 - incident reviews are consistent
 - reliability and cost are balanced deliberately
+- service owners understand the tradeoffs they are making
+
+## Practical Use
+
+Use this framework when you need to explain how SLOs and error budgets should influence engineering decisions.
 
 ## Outputs
 

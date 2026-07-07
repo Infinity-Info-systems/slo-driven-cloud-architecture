@@ -19,3 +19,7 @@ Provide a simple way to score reliability maturity by service or team.
 - 3 = defined
 - 4 = managed
 - 5 = strong
+
+## Use
+
+Use this scorecard to compare reliability maturity across services without losing the context of the underlying evidence.
