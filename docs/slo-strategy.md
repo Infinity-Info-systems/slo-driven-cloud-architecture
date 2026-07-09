@@ -48,6 +48,15 @@ Use this page when translating service experience into concrete targets and acti
 - confirm the threshold is realistic
 - ensure the target supports service goals
 
+## SLO Design Table
+
+| Step | Question | Output |
+| --- | --- | --- |
+| Identify | What matters most? | Critical user journey |
+| Measure | What signal will we track? | SLI choice |
+| Target | What threshold is acceptable? | SLO value |
+| Validate | Is it realistic? | Review note |
+
 ## Operational Notes
 
 - keep targets limited to the most important services

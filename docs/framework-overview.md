@@ -6,6 +6,17 @@ This repository defines how to design and operate cloud systems around service l
 It provides a common language for balancing service health, delivery pace, and cost.
 The framework is meant to make the tradeoffs visible before they become incidents.
 
+## SLO Flow
+
+```mermaid
+flowchart LR
+    A["Service Journey"] --> B["SLI Selection"]
+    B --> C["SLO Target"]
+    C --> D["Error Budget"]
+    D --> E["Release Decision"]
+    E --> F["Review"]
+```
+
 ## What It Covers
 
 - SLO definition
@@ -51,3 +62,17 @@ Use this framework when you need to explain how SLOs and error budgets should in
 - reliability scorecard
 - dashboard
 - review templates
+
+## SLO Layers
+
+| Layer | Question | Artifact |
+| --- | --- | --- |
+| Journey | What user experience matters? | SLO strategy |
+| Measurement | What will we observe? | SLI examples |
+| Threshold | What is acceptable? | SLO template |
+| Control | When do we slow down? | Error budget model |
+| Reporting | What should leaders see? | Executive reporting |
+
+## Decision Rule
+
+If an SLO does not change behavior or decision-making, it is probably not useful enough to keep as a first-class objective.
