@@ -54,6 +54,11 @@ This repository works best when the content is grouped into three layers:
 - [Performance Optimization](docs/performance-optimization.md)
 - [Executive Reporting](docs/executive-reporting.md)
 
+## Code Direction
+
+This repo now includes a typed SLO registry in `src/` so objectives, error budget states, and reporting logic can be reused in tools or future app pages.
+The code layer mirrors the journey, measurement, threshold, control, and reporting flow described in the framework pages.
+
 ## Models
 
 - [Reliability Scorecard](models/reliability-scorecard.md)
